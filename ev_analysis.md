@@ -2,12 +2,12 @@
 This project analyzes a dataset detailing electric vehicles (EV) registrations across the United States, with a focused case study on Washington State. By examining regional adoption patterns, vehicles type distribution, and manufacturer trends, the goal is to generate actionable insights into EV growth, infrastructure requirement, and evolving market preferences. Washington serves as an ideal focal point due to its rich dataset and significant EV adoption, allowing us to conduct a deep dive analysis into electric vehicles.
 
 # Objective
-**EV Adoption Trends**
-Track EV growth over time and identify leading regions (states/counties) in adoption.
-**Market Insights**
-Understand which EV brands and models are most popular, and how preferences vary regionally.
-**EV Type Distribution**
-Analyze the ratio between BEVs and PHEVs and explore how it differs by location and manufacturer.
+>**EV Adoption Trends**
+>>Track EV growth over time and identify leading regions (states/counties) in adoption. /b
+>**Market Insights**
+>>Understand which EV brands and models are most popular, and how preferences vary regionally.
+>**EV Type Distribution**
+>>Analyze the ratio between BEVs and PHEVs and explore how it differs by location and manufacturer.
 
 # Key Insights
 *	King County accounts for the majority of EV registrations in Washington, representing approximately 54.93% of the state's total, followed by Snohomish (12.08%) and Pierce Counties (8.46%). These three counties make up over 75% of the state's EV population. 
