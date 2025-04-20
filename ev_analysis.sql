@@ -25,7 +25,7 @@ CREATE TABLE IF NOT EXISTS ev_reg (
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 -- Data Cleaning --
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-- We will focus exclusively on Washington, hence, other states will be filtered out-
+- Focus is solely on Washington, other states will be filtered out-
 SELECT 
     state, COUNT(*) AS ev_count
 FROM
