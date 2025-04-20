@@ -2,23 +2,23 @@
 This project analyzes a dataset detailing electric vehicles (EV) registrations across the United States, with a focused case study on Washington State. By examining regional adoption patterns, vehicles type distribution, and manufacturer trends, the goal is to generate actionable insights into EV growth, infrastructure requirement, and evolving market preferences. Washington serves as an ideal focal point due to its rich dataset and significant EV adoption, allowing us to conduct a deep dive analysis into electric vehicles.
 
 # Objective
->**EV Adoption Trends**
->>Track EV growth over time and identify leading regions (states/counties) in adoption. /b
->**Market Insights**
->>Understand which EV brands and models are most popular, and how preferences vary regionally.
->**EV Type Distribution**
->>Analyze the ratio between BEVs and PHEVs and explore how it differs by location and manufacturer.
+**EV Adoption Trends** <br>
+Track EV growth over time and identify leading regions (states/counties) in adoption.<br>  
+**Market Insights** <br>
+Understand which EV brands and models are most popular, and how preferences vary regionally. <br>  
+**EV Type Distribution** <br>
+Analyze the ratio between BEVs and PHEVs and explore how it differs by location and manufacturer. <br>  
 
 # Key Insights
-*	King County accounts for the majority of EV registrations in Washington, representing approximately 54.93% of the state's total, followed by Snohomish (12.08%) and Pierce Counties (8.46%). These three counties make up over 75% of the state's EV population. 
+*	**King County** accounts for the majority of EV registrations in Washington, representing approximately **54.93%** of the state's total, followed by Snohomish **(12.08%)** and Pierce Counties **(8.46%)**. These three counties make up over **75%** of the state's EV population. 
 
-*	Tesla leads the EV market in Washington by a significant margin, accounting approximately 45.83% of total EV registrations, far surpassing other manufacturers.
+*	**Tesla** leads the EV market in Washington by a significant margin, accounting approximately **45.83%** of total EV registrations, far surpassing other manufacturers.
 
-*	Battery Electric Vehicles (BEVs) make up 79.29% of the total EV population in Washington, while Plug-in Hybrid Electric Vehicles (PHEVs) represent 20.71%. This highlights a strong consumer preference for fully electric vehicles.
+*	**Battery Electric Vehicles (BEVs)** make up **79.29%** of the total EV population in Washington, while **Plug-in Hybrid Electric Vehicles (PHEVs)** represent **20.71%**. This highlights a strong consumer preference for fully electric vehicles.
 
-*	BEVs have shown a noticeable acceleration in growth from 2020 to 2023 comprising 63.2% of all registrations.
+*	**BEVs** have shown a noticeable acceleration in growth from **2020 to 2023**, showing a clear market shift away from PHEVs.
 
-* Rural counties significantly lag behind urban centers in EV adoption, these is likely tied down to factors which includes income levels, charging availability, and population density.
+* **Rural counties** significantly lag behind urban centers in EV adoption, these is likely tied down to factors which includes income levels, charging availability, and population density.
 
 # Recommendation
 1. **Expand Charging Infrastructure**
